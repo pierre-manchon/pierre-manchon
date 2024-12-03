@@ -19,6 +19,7 @@
 <a href="https://pierre-manchon.pm/find-me#contact">
     <img alt="contact" src="https://img.shields.io/static/v1?label=%2Ffind-me%23contact&labelColor=161b22&message= &color=161b22&style=flat-square">
 </a>
+[![Test](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/pierre-manchon/pierre-manchon/create-custom-badge/endpoint.json)](https://github.com/pierre-manchon/pierre-manchon)
 <details>
     <summary>stats</summary>
     <p align="center"><img src="/metrics.svg" alt="Metrics" width="100%"></p>

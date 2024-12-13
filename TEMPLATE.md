@@ -1,22 +1,22 @@
 <img align="left" height=75 src="praisesun.png"> 
 
-### Salut! 👋
-My name is Pierre, I'm a remote sensing and ci/cd enthusiast and a cli enjoyer
+### Salut!
+My name is Pierre, I'm a remote sensing 🛰️ and ci/cd ♻️ enthusiast.
 <br>
 <div align="left">
     
-    🔍 In my {{ ACCOUNT_AGE }} years of relative activity here I've opened: {{ ISSUES }} issues
-       and submitted {{ PULL_REQUESTS }} pull requests totalling {{ COMMITS }} patchs accross {{ REPOSITORIES }}
-       personnal repositories and {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
+    🔍 In my {{ACCOUNT_AGE}} years of relative activity here I've opened: {{ISSUES}} issues
+       and submitted {{PULL_REQUESTS}} pull requests totalling {{COMMITS}} patchs accross {{REPOSITORIES}}
+       personnal repositories and {{REPOSITORIES_CONTRIBUTED_TO}} public repositories.
        The most notable projects I've contributed to are pinned below.
 
     🌱 Working on landscape segmentation for agro-ecology modeling
     ⚡ Perfecting my spatial analysis and remote sensing skills
-    🚀 Learning unit testing & ci/cd in general.
+    🚀 Learning continuous testing & ci/cd in general.
 
-    My most used languages are:
-    {{ LANGUAGE_TEMPLATE_START:max=3 }}{{ LANGUAGE_NAME }} ({{ LANGUAGE_PERCENT:uri }})
-    {{ LANGUAGE_TEMPLATE_END }}
+    📚 My most used languages are:
+        {{LANGUAGE_TEMPLATE_START:max=4}}{{LANGUAGE_NAME}} ({{LANGUAGE_PERCENT:uri}}%)
+        {{LANGUAGE_TEMPLATE_END}}
 
 </div>
 <div align="center">

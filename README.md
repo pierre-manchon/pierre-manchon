@@ -1,24 +1,25 @@
 <img align="left" height=75 src="praisesun.png"> 
 
-### Salut! 👋
-My name is Pierre, I'm a remote sensing and ci/cd enthusiast and a cli enjoyer
+### Salut!
+My name is Pierre, I'm a remote sensing 🛰️ and ci/cd ♻️ enthusiast.
 <br>
 <div align="left">
     
     🔍 In my 10 years of relative activity here I've opened: 24 issues
-       and submitted 32 pull requests totalling 1200 patchs accross 8
+       and submitted 32 pull requests totalling 1202 patchs accross 8
        personnal repositories and 5 public repositories.
        The most notable projects I've contributed to are pinned below.
 
     🌱 Working on landscape segmentation for agro-ecology modeling
     ⚡ Perfecting my spatial analysis and remote sensing skills
-    🚀 Learning unit testing & ci/cd in general.
+    🚀 Learning continuous testing & ci/cd in general.
 
-    My most used languages are:
-    Python (51.3)
-    R (29)
-    Other (19.6)
-    
+    📚 My most used languages are:
+        Python (51.3%)
+        R (29%)
+        JavaScript (12.4%)
+        Other (7.2%)
+        
 
 </div>
 <div align="center">

@@ -6,8 +6,8 @@ My name is Pierre, I'm a remote sensing 🛰️ and ci/cd ♻️ enthusiast.
 <div align="left">
     
     🔍 In my 10 years of relative activity here I've opened: 24 issues
-       and submitted 32 pull requests totalling 1250 patchs accross 8
-       personnal repositories and 4 public repositories.
+       and submitted 32 pull requests totalling 1255 patchs accross 8
+       personnal repositories and 5 public repositories.
        The most notable projects I've contributed to are pinned below.
 
     🌱 Working on landscape segmentation for agro-ecology modeling

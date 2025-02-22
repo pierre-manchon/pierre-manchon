@@ -16,13 +16,13 @@ css (raw, bootstrap, simple)
 -->
 <div align="left">
     
-    🔍 In my 10 years of relative activity here I've opened 24 issues and submitted 33 PRs (1280 patchs).
+    🔍 In my 10 years of relative activity here I've opened 24 issues and submitted 33 PRs (1282 patchs).
        The most notable projects I've contributed to are pinned below.
 </div>
 
-<a href="https://pierre-manchon.frama.io/">
+<a href="https://pierre-manchon.github.io/">
     <img alt="website" src="https://img.shields.io/website?down_color=red&down_message=pierre-manchon.pm&label=://&labelColor=161b22&up_color=00ffff&up_message=pierre-manchon.pm&url=https%3A%2F%2Fpierre-manchon.frama.io&style=flat-square">
 </a>
-<a href="https://pierre-manchon.frama.io/find-me#contact">
+<a href="https://pierre-manchon.github.io/find-me#contact">
     <img alt="contact" src="https://img.shields.io/static/v1?label=%2Ffind-me%23contact&labelColor=161b22&message= &color=161b22&style=flat-square">
 </a>
